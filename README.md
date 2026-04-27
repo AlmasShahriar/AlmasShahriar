@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ Who Am I?
+##  Who Am I?
 
 ```python
 almas = {
@@ -34,24 +34,24 @@ almas = {
 
 ---
 
-## 🏆 Impact At A Glance
+##  Impact At A Glance
 
 <div align="center">
 
-| 📦 Demand Records Analyzed | 🧵 Units Forecasted | 📈 Line Efficiency Gained | ⏱️ Cycle Time Studied |
+| Demand Records Analyzed |  Units Forecasted |  Line Efficiency Gained |  Cycle Time Studied |
 |:--------------------------:|:-------------------:|:-------------------------:|:---------------------:|
 | **75,000+** | **20 Million+** | **46.4% → 67.7%** | **4,305 seconds** |
 
 </div>
 
-> 🔥 These aren't just numbers — they're real improvements on a real factory floor at **American & Efird (Bangladesh) Ltd.**
+> These aren't just numbers — they're real improvements on a real factory floor at **American & Efird (Bangladesh) Ltd.**
 
 ---
 
 ## 🛠️ My Arsenal
 
 <details open>
-<summary><b>⚙️ Industrial Engineering Techniques</b></summary>
+<summary><b>Industrial Engineering Techniques</b></summary>
 <br/>
 
 `Work Study` `Time Study` `Line Balancing` `Demand Forecasting` `ABC Analysis` `Process Mapping` `Production Planning` `Bottleneck Analysis` `Operator Reallocation`
@@ -59,7 +59,7 @@ almas = {
 </details>
 
 <details open>
-<summary><b>💻 Simulation, Data & Programming</b></summary>
+<summary><b>Simulation, Data & Programming</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -71,7 +71,7 @@ almas = {
 </details>
 
 <details open>
-<summary><b>🎨 CAD & 3D Modeling</b></summary>
+<summary><b> CAD & 3D Modeling</b></summary>
 <br/>
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logoColor=white)
@@ -82,7 +82,7 @@ almas = {
 </details>
 
 <details>
-<summary><b>🎬 Creative & Visual Tools</b></summary>
+<summary><b>Creative & Visual Tools</b></summary>
 <br/>
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
@@ -93,12 +93,12 @@ almas = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏛️ 3D Colosseum Model</h3>
+      <h3 align="center"> 3D Colosseum Model</h3>
       <p align="center">
         Reconstructed Rome's iconic Colosseum as a <b>full parametric 3D model</b> in SolidWorks — using sketches, extrusions, circular patterns, and assemblies to achieve architectural precision. A love letter to both history and engineering.
       </p>
@@ -122,43 +122,43 @@ almas = {
 
 ---
 
-## 💼 Industry Experience
+## Industry Experience
 
-### 🏭 American & Efird (Bangladesh) Ltd. — Industrial Attachment
+### American & Efird (Bangladesh) Ltd. — Industrial Attachment
 
 > *End-to-end exposure to sewing thread manufacturing: dyeing, finishing, QA, and logistics*
 
 ```
-📦 ABC Analysis        →  Classified SKUs across 75,000+ historical demand records
-📅 Demand Forecasting  →  Built seasonal model to plan 20M+ units production
-⏱️ Time Study          →  Captured 4,305 seconds of cycle time across dye house operations
-🔧 Line Balancing      →  Identified bottlenecks → proposed fix → efficiency jumped 21.3%
+ ABC Analysis        →  Classified SKUs across 75,000+ historical demand records
+ Demand Forecasting  →  Built seasonal model to plan 20M+ units production
+ Time Study          →  Captured 4,305 seconds of cycle time across dye house operations
+ Line Balancing      →  Identified bottlenecks → proposed fix → efficiency jumped 21.3%
 ```
 
 ---
 
-## 🎖️ Leadership
+## Leadership
 
 ```
-🎨  Director of Design       →  IEOM BUET Student Chapter   (Sept 2024 – Present)
-📢  Secretary of Comms       →  BUET Animata                (Sept 2024 – Present)
-🌟  Campus Ambassador        →  Renata Limited              (2025 – Present)
+ Director of Design       →  IEOM BUET Student Chapter   (Sept 2024 – Present)
+ Secretary of Comms       →  BUET Animata                (Sept 2024 – Present)
+ Campus Ambassador        →  Renata Limited              (2025 – Present)
 ```
 
 ---
 
-## 📜 Certifications & Achievements
+##  Certifications & Achievements
 
-- 🏅 **Advanced MS Word, Excel & PowerPoint for Engineering** — BUET AIPE
-- 🏅 **Perfect Attendance Award** — Notre Dame College
-- 🎓 **HSC GPA: 5.00 / 5.00** — Notre Dame College (2020)
+-  **Advanced MS Word, Excel & PowerPoint for Engineering** — BUET AIPE
+-  **Perfect Attendance Award** — Notre Dame College
+-  **HSC GPA: 5.00 / 5.00** — Notre Dame College (2020)
 
 ---
 
 <div align="center">
 
 ---
-### 🤝 Let's build something efficient together!
+###  Let's build something efficient together!
 
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 almasalif123@gmail.com &nbsp;|&nbsp; 📞 +880 1533-991730
 
