@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:0077B6&height=200&section=header&text=Almas%20Shahriar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Industrial%20%26%20Production%20Engineer%20%7C%20BUET&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<h1>⚙️ Almas Shahriar</h1>
+<h3>Industrial & Production Engineer · BUET'20 · Dhaka, Bangladesh 🇧🇩</h3>
+<p><i>Making factories smarter, one data point at a time.</i></p>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Optimizing+Systems+%F0%9F%8F%AD;Crunching+75%2C000%2B+Data+Points+%F0%9F%93%8A;Turning+Bottlenecks+into+Breakthroughs+%F0%9F%9A%80;Engineering+Better+Processes+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=600&lines=Optimizing+Systems+%F0%9F%8F%AD;Crunching+75%2C000%2B+Data+Points+%F0%9F%93%8A;Turning+Bottlenecks+into+Breakthroughs+%F0%9F%9A%80;Engineering+Better+Processes+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -156,7 +157,8 @@ almas = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:003366&height=120&section=footer&text=Let's+build+something+efficient+together!&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+---
+### 🤝 Let's build something efficient together!
 
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 almasalif123@gmail.com &nbsp;|&nbsp; 📞 +880 1533-991730
 
